@@ -22,3 +22,7 @@ return 0;
 
 
 ![Улыбающийся смайлик](https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f60a.png)
+
+## Достижения 
+- *10 лет занимался карате*
+- *всё (пока что)*
