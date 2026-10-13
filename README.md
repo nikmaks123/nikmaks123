@@ -28,5 +28,5 @@ return 0;
 - *всё (пока что)*
 
 
-![Telegram](https://raw.githubusercontent.com/twbs/icons/main/icons/telegram.svg)
+![Telegram](https://img.icons8.com/color/48/telegram-app--v1.png)
 [Мой телеграм ](https://t.me/nikitkin44)
