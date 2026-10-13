@@ -29,3 +29,9 @@ return 0;
 
 
 ![Telegram](https://img.icons8.com/color/48/telegram-app--v1.png) [Мой телеграм ](https://t.me/nikitkin44)
+
+Статистика
+<!-- Карточка с активностью -->
+![GitHub Streak](https://streak-stats.demolab.com?user=nikmaks123&theme=radical)
+<!-- Карточка с языками программирования -->
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=nikmaks123&layout=compact&theme=radical)
