@@ -1,2 +1,3 @@
 ## я Никита (nikitkin)👋
-### 🎓 студент ITMO University
+| 🎓 Студент ITMO University |
+|:---:|
