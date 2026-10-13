@@ -21,4 +21,4 @@ return 0;
 - [ ] ***Много всего крутого***
 
 
-![GitHub] (https://i.pinimg.com/474x/e4/fc/2c/e4fc2cf7476f852ae2d612d9f10ac200.jpg)
+![Ноутбук](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
